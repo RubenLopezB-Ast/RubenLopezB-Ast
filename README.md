@@ -32,13 +32,16 @@ que soy nuevo en este mundo pero tengo muchismas ganas de ir creciendo en el dí
 Aprendizaje continuo
 
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=RubenLopezB-Ast&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Ruben Github Stats">
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=RubenLopezB-Ast&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Ruben Github Stats">
 
 </br>
 </br>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=RubenLopezB-Ast&show_icons=true&theme=dark&locale=en&layout=compact" alt="RubenLopezB-Ast" /></p>
 
-<p><img align="right" src="https://github-readme-stats.vercel.app/api?username=Aditya664&show_icons=true&theme=tokyonight" alt="RubenLopezB-Ast" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=Aditya664&show_icons=true&theme=tokyonight" alt="RubenLopezB-Ast" /></p>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ### Curiosidades
 
