@@ -1,23 +1,46 @@
 ## Hi there 👋 Soy Rubén
 
 ### Os cuento un poco...
-Sobre mí tan solo deciros que soy nuevo en este mundo pero tengo muchismas ganas de ir creciendo en el día a día.
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Sobre_mí+tan_solo_deciros)](https://git.io/typing-svg)
+
+que soy nuevo en este mundo pero tengo muchismas ganas de ir creciendo en el día a día.
 
 ![montañas](per2.png)
 
 ### Lenguajes e IDEs
 
-![Html](html.png) ![Python](Py.png) ![Java](java.png) ![JavaScript](js.png) ![Markdawn](M.png) ![VSC](vsc.png) ![VisualSC](vvsc.png) ![pyc text](pc.svg) ![intellj](ij.png) 
-![git](gb.jpg) ![github](gh.png) ![mysql](ms.jpg)
+<img src="https://img.shields.io/badge/-C-05122A?style=flat&logo=C"/>
+     <img src="https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B"/>
+     <img src="https://img.shields.io/badge/-Java-05122A?style=flat&logo=java"/>
+     <img src="https://img.shields.io/badge/-Python-05122A?style=flat&logo=python"/>
+     <img src="https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown"/>
+     <br>
+     <img src="https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5"/>
+     <img src="https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3"/>
+     <img src="https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript"/>
+     <br>
+     <img src="https://img.shields.io/badge/-Git-05122A?style=flat&logo=git"/>
+     <img src="https://img.shields.io/badge/-Github-05122A?style=flat&logo=github"/>
+     <img src="https://img.shields.io/badge/-Gitlab-05122A?style=flat&logo=gitlab"/>
+     <br>
+     <img src="https://img.shields.io/badge/-MySql-05122A?style=flat&logo=mysql"/>
+     <img src="https://img.shields.io/badge/-IntelliJ-05122A?style=flat&logo=intellijidea"/>
+     <img src="https://img.shields.io/badge/-PyCharm-05122A?style=flat&logo=pycharm"/>
+     <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC"/>
 
 ### Analytic
 
 Aprendizaje continuo
 
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=RubenLopezB-Ast&show_icons=true&theme=radical)
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=RubenLopezB-Ast&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Ruben Github Stats">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RubenLopezB-Ast)](https://github.com/RubenLopezB-Ast/github-readme-stats)
+</br>
+</br>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=RubenLopezB-Ast&show_icons=true&theme=dark&locale=en&layout=compact" alt="RubenLopezB-Ast" /></p>
+
+<p><img align="right" src="https://github-readme-stats.vercel.app/api?username=Aditya664&show_icons=true&theme=tokyonight" alt="RubenLopezB-Ast" /></p>
 
 ### Curiosidades
 
