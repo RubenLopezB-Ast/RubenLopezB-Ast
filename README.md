@@ -1,61 +1,53 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## Hi there 👋 Soy Rubén
-
-### Os cuento un poco...
+## 👋 ¡Hola! Soy Rubén
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Sobre_mí+tan_solo_deciros)](https://git.io/typing-svg)
 
-que soy nuevo en este mundo pero tengo muchísimas ganas de ir creciendo en el día a día.  
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-![montañas](per2.png)
+Soy nuevo en este mundo del desarrollo, pero tengo muchísimas ganas de crecer día a día, aprender y mejorar.
 
 ---
 
-### 🚀 Lenguajes e IDEs que utilizo
+# 🚀 Tecnologías, Lenguajes y Entornos que utilizo
 
-<img src="https://img.shields.io/badge/-Java-05122A?style=flat&logo=java"/>
-<img src="https://img.shields.io/badge/-Python-05122A?style=flat&logo=python"/>
-<img src="https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown"/>
-<img src="https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5"/>
-<img src="https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3"/>
-<img src="https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript"/>
-<img src="https://img.shields.io/badge/-Git-05122A?style=flat&logo=git"/>
-<img src="https://img.shields.io/badge/-Github-05122A?style=flat&logo=github"/>
-<img src="https://img.shields.io/badge/-MySql-05122A?style=flat&logo=mysql"/>
-<img src="https://img.shields.io/badge/-IntelliJ-05122A?style=flat&logo=intellijidea"/>
-<img src="https://img.shields.io/badge/-PyCharm-05122A?style=flat&logo=pycharm"/>
-<img src="https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC"/>
+<div align="center">
+
+## 💻 Lenguajes
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
+<img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 
 ---
 
-### 📊 Estadísticas
-
-<img align="left"
-     src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=RubenLopezB-Ast&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40"
-     alt="Ruben Github Stats">
-
-</br></br>
-
-<img
-     src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=RubenLopezB-Ast&show_icons=true&theme=dark&layout=compact"
-     alt="RubenLopezB-Ast Lenguajes" />
+## 🗄️ Bases de Datos
+<img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
 
 ---
 
-### Curiosidades
-
-🔭 Estoy de excedencia en una empresa de Automoción.  
-🌱 Aunque vivo en La Rioja cerca de Álava yo soy de Asturias.  
-👯 Me encanta el trabajo colaborativo.  
-🤔 Me motiva aprender y crecer día a día.  
-💬 Hablamos: +34 322 223 232 323  
-📫 Email: **rlb09@hotmail.es**
+## 🛠️ Control de Versiones
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 
 ---
 
-<p>Página experimental</p> by <b>Rubén López</b>
+## 🧰 IDEs / Entornos de desarrollo
+<img src="https://img.shields.io/badge/IntelliJIDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white"/>
+<img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white"/>
+<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</div>
+
+---
+
+# 📊 Porcentaje aproximado de uso de tecnologías
+
+```text
+Java         ████████████░░░░░░   45%
+Python       ████████░░░░░░░░░░   30%
+JavaScript   ████░░░░░░░░░░░░░░   15%
+HTML / CSS   ██░░░░░░░░░░░░░░░░   10%
+MySQL        ███░░░░░░░░░░░░░░░   En crecimiento
 
